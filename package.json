@@ -6,7 +6,7 @@
   "author": "",
   "dependencies": {
     "config": "^1.26.1",
-    "engine.io": "^6.4.1",
+    "engine.io": "^6.4.2",
     "socket.io": "^4.6.1",
     "socket.io-client": "^4.6.1",
     "winston": "^3.8.2",
